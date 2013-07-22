@@ -1,0 +1,49 @@
+Nfc Interactor
+http://www.nfcinteractor.com/
+Powerful tool for reading and writing NFC tags.
+
+Upstream Author(s):
+
+    Andreas Jakl
+
+Copyright:
+
+    Copyright (C) 2011-2012 Nokia Corporation and/or its subsidiary(-ies).
+    All rights reserved.
+
+License:
+
+This Nokia Example Code License Agreement (“Agreement”) is a legal agreement between Nokia Corporation ("Nokia"), with its registered office at Keilalahdentie 4, 02150 Espoo, Finland and you (“Licensee”) for the example application, including the source code and/or binary code contained therein, tools, libraries, application programming interfaces (APIs), data, documentation and other content provided to you by Nokia as part of the software package (“Application”).
+
+1.	 OWNERSHIP
+
+The Application, including without limitation, title and intellectual property rights therein, is owned by Nokia and/or its licensors and affiliates and is protected by international treaty provisions and applicable national laws of the country in which it is being used.  The Application is licensed, not sold.  
+
+2.	 VALIDITY OF THE AGREEMENT
+
+By installing, copying, or otherwise using the Application, Licensee agrees to be bound by the terms of this Agreement. If Licensee does not agree to the terms of this Agreement, Licensee may not install, copy, or otherwise use the Application. Upon Licensee's acceptance of the terms and conditions of this Agreement, Nokia grants Licensee the right to use the Application in the manner provided below.
+
+3.	 LICENSES
+
+Nokia grants to Licensee a non-exclusive, non-transferable, perpetual license to use, modify, copy and distribute code snippets from the Application in conjunction with use and distribution of applications for Nokia platforms.  You are also welcome to use ideas from the Application as a basis for creating your own applications to be distributed on Nokia platforms.  Code snippets and ideas used in Licensee’s applications may be licensed under terms of Licensee’s own choosing provided that distribution of such code snippets and ideas is limited to distribution on Nokia platforms.  Any use of the Application in breach of the provisions in this Agreement shall result in the license granted in this Section 3 automatically terminating as of the date of the breach.  Code snippets cannot constitute the primary value of any new software derived from or incorporating the Application.
+
+4.	 OPEN SOURCE LICENSES
+
+Some software, documentation and/or other content contained in the Application may be licensed under open source software or other licenses.  To the extent such software, documentation and/or content is included, the licenses or other terms and conditions provided with such software, documentation and/or other content shall apply in addition to and/or instead of this Agreement.
+
+5.	NO WARRANTY
+
+EXCEPT AS SET FORTH ABOVE, THE APPLICATION IS LICENSED TO LICENSEE "AS IS". TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NOKIA ON BEHALF OF ITSELF AND ITS AFFILIATES AND SUPPLIERS, DISCLAIMS ALL WARRANTIES AND CONDITIONS, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT WITH REGARD TO THE APPLICATION.
+
+6.	 LIMITATION OF LIABILITY 
+
+IF, NOKIA'S WARRANTY DISCLAIMER NOTWITHSTANDING, NOKIA IS HELD LIABLE TO LICENSEE, WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY, BASED ON THE APPLICATION, NOKIA'S ENTIRE LIABILITY TO LICENSEE AND LICENSEE'S EXCLUSIVE REMEDY SHALL BE, AT NOKIA'S OPTION, EITHER (A) RETURN OF THE PRICE LICENSEE PAID FOR THE APPLICATION, OR (B) REPAIR OR REPLACEMENT OF THE APPLICATION. NOKIA SHALL NOT UNDER ANY CIRCUMSTANCES BE LIABLE TO LICENSEE BASED ON FAILURE OF THE APPLICATION IF THE FAILURE RESULTED FROM ACCIDENT, ABUSE OR MISAPPLICATION, NOR SHALL NOKIA UNDER ANY CIRCUMSTANCES BE LIABLE FOR SPECIAL DAMAGES, PUNITIVE OR EXEMPLARY DAMAGES, DAMAGES FOR LOSS OF PROFITS OR INTERRUPTION OF BUSINESS OR FOR LOSS OR CORRUPTION OF DATA. ANY AWARD OF DAMAGES FROM NOKIA TO LICENSEE SHALL NOT EXCEED THE TOTAL AMOUNT LICENSEE HAS PAID TO NOKIA IN CONNECTION WITH THIS AGREEMENT. 
+
+7.	 GOVERNING LAW AND LEGAL VENUE
+
+This Agreement shall be construed and interpreted in accordance with the laws of Finland, excluding its choice of law provisions. Any disputes arising out of or relating to this Agreement shall be finally resolved in arbitration under the Rules of Arbitration of the Central Chamber of Commerce of Finland. The arbitration tribunal shall consist of one (1), or if either Party so requires, of three (3) arbitrators. The award shall be final and binding and enforceable in any court of competent jurisdiction. The arbitration shall be held in Helsinki, Finland and shall be conducted in the English language. 
+
+7. NO IMPLIED LICENSE
+There are no implied licenses or other implied rights granted under this Agreement, and all rights, save for those expressly granted hereunder, shall remain with Nokia and its licensors.  In addition, no licenses or immunities are granted for the combination of the Application and/or modified Application, as applicable, with any other software or hardware.
+
+

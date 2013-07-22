@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=com.nokia.qtmobility.nfc.nfcinteractor
+Exec=/usr/bin/invoker -S /opt/nfcinteractor/splash-nfcinteractor-p.png -L /opt/nfcinteractor/splash-nfcinteractor-l.png --type=e --single-instance /opt/nfcinteractor/bin/nfcinteractor
+User=user

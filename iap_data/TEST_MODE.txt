@@ -1,0 +1,5 @@
+[simulation]
+818680=simulated_ok
+818679=simulated_ok
+818769=simulated_ok
+524777=simulated_payment_declined

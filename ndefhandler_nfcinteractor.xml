@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SFW version="1.1">
+    <service>
+        <name>NfcInteractor</name>
+        <ipcaddress>nfcinteractor</ipcaddress>
+        <description>NFC NDEF message handler for Nfc Interactor</description>
+        <interface>
+            <name>com.nokia.qtmobility.nfc.NdefMessageHandler</name>
+            <version>1.0</version>
+            <description>NFC NDEF message handler for Nfc Interactor</description>
+            <capabilities></capabilities>
+            <customproperty key="datatype">urn:nfc:ext:nokia.com:nfcinteractor</customproperty>
+        </interface>
+    </service>
+</SFW>

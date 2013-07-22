@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=NfcInteractor
+Exec=/usr/bin/invoker -S /opt/nfcinteractorunlimited/splash-nfcinteractor-p.png -L /opt/nfcinteractorunlimited/splash-nfcinteractor-l.png --type=e --single-instance /opt/nfcinteractorunlimited/bin/nfcinteractorunlimited
+Icon=/opt/nfcinteractorunlimited/nfcinteractor80.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable

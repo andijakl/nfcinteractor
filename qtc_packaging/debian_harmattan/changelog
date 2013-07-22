@@ -1,0 +1,44 @@
+nfcinteractorunlimited (4.2.0) unstable; urgency=low
+  * New Windows LaunchApp record to launch apps on the Windows 8 platform
+  * New Android Application Record to launch apps on Android
+  * Added Skype call link to Social Network class (using custom URI)
+
+ -- Andreas Jakl <>  Thu, 11 Oct 2012 12:49:33 +0200
+
+nfcinteractorunlimited (4.1.1) unstable; urgency=low
+  * Fixes unlimited version in Nokia Store
+
+ -- Andreas Jakl <>  Sat, 21 Jul 2012 23:08:05 +0200
+
+nfcinteractorunlimited (4.1.0) unstable; urgency=low
+  * Edit collected records with external RTD.
+  * Improved handling of raw payload in custom tags.
+
+ -- Andreas Jakl <>  Tue, 17 Jul 2012 17:22:26 +0200
+
+nfcinteractorunlimited (4.0.0) unstable; urgency=low
+  * Peer-to-peer communication for sending and receiving SNEP messages.
+  * Low level peer-to-peer connection-oriented and connection-less LLCP sockets for sending raw NDEF messages.
+
+ -- Andreas Jakl <>  Wed, 06 Jun 2012 17:15:13 +0300
+
+nfcinteractorunlimited (3.0.0) unstable; urgency=low
+  * Cloning tags supported (long-press on read tag contents -> Clone).
+  * Editing tags supported (long-press on read tag contents -> Edit).
+  * Stores all collected tags to the data directory for later reuse.
+  * Extracts and saves images from tags (edit an existing tag, filename shown in the compose view).
+  * Settings screen to enable/disable storing all collected tags and to choose the data directory.
+
+ -- Andreas Jakl <>  Sun, 06 May 2012 23:44:33 +0200
+
+nfcinteractorunlimited (2.1.0) unstable; urgency=low
+  * Added support for writing Foursquare tags.
+  * Print raw payload for external tag types.
+  * Updated In-App-Advertising library version.
+
+ -- Andreas Jakl <>  Mon, 12 Mar 2012 13:10:59 +0200
+
+nfcinteractorunlimited (2.0.0) unstable; urgency=low
+  * Initial release of the Qt Nfc Interactor, based on Nfc Info and replacing the Java ME-based Nfc Interactor.
+
+ -- Andreas Jakl <>  Fri, 18 Nov 2011 11:22:49 +0200

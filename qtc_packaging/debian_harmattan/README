@@ -1,0 +1,24 @@
+Nfc Interactor
+-------------------------------------------------------------------
+
+View low level information about NFC tags and their contents,
+and write your own tags with a dynamic NDEF message editor UI.
+
+When touching an NFC tag, the application shows general information
+about the tag and parses the contents of contained NDEF messages.
+
+Go to the write mode to compose your own tag contents, which can
+consist of multiple NDEF records. Various templates help to format
+the contents.
+
+The app supports the following content: Smart Poster, URI, Text,
+Geo, SMS, social networks, MIME/vCard (business cards), MIME/image, 
+app store links, Windows LaunchApp, Android Application Record and
+custom records.
+
+Peer-to-peer support between NFC devices for sending messages through
+the standardized SNEP protocol, or with raw LLCP socket connections.
+
+This tool is made for enthusiasts and developers.
+
+ -- Andreas Jakl <>  Mon, 08 Aug 2011 18:00:46 +0300

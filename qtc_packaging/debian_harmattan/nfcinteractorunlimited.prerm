@@ -1,0 +1,8 @@
+#!/bin/sh
+
+dbus-send --system --type=method_call --print-reply --dest=com.nokia.nfc / \
+	com.nokia.nfc.Manager.UnregisterNDEFHandler \
+	string:session \
+        string:com.nokia.qtmobility.nfc.nfcinteractorunlimited \
+        objpath:/com/nokia/nfc/ndefhandler \
+|| echo 'Failed to unregister autostart ndef handler'

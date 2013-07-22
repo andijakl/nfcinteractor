@@ -1,0 +1,12 @@
+#!/bin/sh
+
+dbus-send --system --type=method_call --print-reply --dest=com.nokia.nfc / \
+        com.nokia.nfc.Manager.RegisterNDEFHandler \
+        string:session \
+        string:com.nokia.qtmobility.nfc.nfcinteractor \
+        objpath:/com/nokia/nfc/ndefhandler \
+        string:any \
+        string:"'urn:nfc:ext:nokia.com:nfcinteractor','*'[0:1];" \
+        string:nfcinteractor \
+|| echo 'Failed to register autostart ndef handler'
+
